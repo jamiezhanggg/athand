@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/athand/static/css/main.ae42ac5f.css",
-    "main.js": "/athand/static/js/main.896bf46d.js",
+    "main.js": "/athand/static/js/main.0f318390.js",
     "index.html": "/athand/index.html",
     "main.ae42ac5f.css.map": "/athand/static/css/main.ae42ac5f.css.map",
-    "main.896bf46d.js.map": "/athand/static/js/main.896bf46d.js.map"
+    "main.0f318390.js.map": "/athand/static/js/main.0f318390.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.896bf46d.js"
+    "static/js/main.0f318390.js"
   ]
 }
